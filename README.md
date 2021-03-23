@@ -5,7 +5,7 @@
 **Course Date:** 22.03.2021  
 **Name:** Cemilcan   
 **Surname:** Aşıkoğlu
-**Email:** mertcobanov@gmail.com  
+**Email:** cemilcan6013@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
