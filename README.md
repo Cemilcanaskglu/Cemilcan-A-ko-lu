@@ -1,4 +1,4 @@
-# Cemilcan-A-ko-lu
+
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
